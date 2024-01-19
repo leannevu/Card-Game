@@ -7,13 +7,13 @@ The player has the option of playing the game without betting any money but cann
 
 FEATURES:
 
-Use TreeSet datatype to save player objects
-Deck of cards; check for numerical value, shuffle cards, and make cards non replaceable
-Print player information (name, age, balance)
-Print all players' information
-Save information of players (into text file)
-End current player's round
-Add, edit, delete, search, and view player's information
-View an about form of the GUI
-View results of selected player
-Splash screen
+- Use TreeSet datatype to save player objects
+- Deck of cards; check for numerical value, shuffle cards, and make cards non replaceable
+- Print player information (name, age, balance)
+- Print all players' information
+- Save information of players (into text file)
+- End current player's round
+- Add, edit, delete, search, and view player's information
+- View an about form of the GUI
+- View results of selected player
+- Splash screen
